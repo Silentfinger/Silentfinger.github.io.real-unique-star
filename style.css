@@ -1,0 +1,431 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.nav{
+    list-style: none;
+    background-color:#00021C;
+    padding-left: 0px;
+    
+    
+}
+.navbar:hover{
+    color: white;
+
+}
+.nav-link{
+    margin-left: 100px;
+    color:#FFF;
+    font-weight: bolder;
+    font-size:x-large;
+    font-family: sans-serif;
+    animation:backwards;
+    animation-delay: 0.2s;
+    animation-duration: 2s;
+    ani
+}
+.did{
+    background-color: rgb(255,242,0);
+    height: 100vh;
+    font-weight: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.para{
+    margin-top: 40px;
+    margin-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 1px solid white ;
+    border-radius: 20px;
+    color: rgb(14,67,99);
+    font-size: x-large;
+    background-color:  white;
+    margin-left: 20px;
+    font-weight: bold;
+    
+}
+.one{
+    /* margin-left: 600px; */
+    margin-bottom: 40px;
+    padding-bottom: 50px;
+    font-size: 40px;
+    color: rgb(6,65,18);
+}
+.kin{
+    background-color: rgb(242,242,242);
+    background-size: cover;
+    height: 100vh;
+    font-weight: 100%;
+}
+
+.dip{
+    background-color: rgb(255,242,0);
+    height: 55vh;
+    font-weight: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.email{
+    padding:20px 180px 20px 150px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.emai{
+    padding:20px 150px 20px 180px;
+    border-radius: 10px;
+    border: 1px solid black;
+    
+}
+.nice{
+    margin-right: 105px;
+    padding-top: 50px;
+    font-size: x-large;
+    font-weight: bold;
+    color: black;
+}
+.pack{
+    padding-top: 20px;
+    margin-right: 405px;
+    font-size: x-large;
+    font-weight: bold;
+    color: black;
+}
+.for{
+    color:black;
+    font-size: large;
+    font-weight: bold;
+    margin-right: 320px;
+}
+.move{
+    border:3px groove yellow;
+    border:1px yellow;
+    border-radius:10px;
+    background-color: green;
+    color:white;
+    padding: 30px; 
+    width: 100px;
+    height: 100px;  
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 20px;
+    margin-right: 400px;
+    font-size: medium;
+    font-weight: bold;
+    
+}
+.joke{
+    background-color: white;
+    background-size: contain;
+    margin-left: 33%;
+    margin-right: 33%;
+    height: 50vh;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 40px;
+
+
+}
+hr.style-six {
+    padding: 0;
+    border: none;
+    height: 1px;
+    background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image: -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image: -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image: -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    color: #333;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    }
+    hr.style-six:after {
+    content:" ";
+    display: inline-block;
+    position: relative;
+    top: -1em;
+    font-size: 1.5em;
+    padding: 19px 1.75em;
+    background: #fff url(images/uniquestar\ logo.jpg) no-repeat scroll center;
+    background-size: 90px 90px;
+    height: 50px;
+    
+    
+    }
+    .now{
+        border:3px groove green;
+    background-color: green;
+    color:white;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    padding: 27px;
+    font-size: medium;
+    font-weight: bold;
+    
+    }
+    .know{
+        background-color: rgb(246,215,22) ;
+        height: 50vh;
+        width: 100%;
+    }
+    .ink{
+        font-size: 100px;
+        text-align: center;
+        text-shadow: 20px;
+        opacity: 0.7;
+
+    }
+    hr.style-sex {
+        margin-right: 20%;
+        margin-left: 20%;
+     }
+     .legal{
+        font-size: xx-large;
+        font-weight: bold;
+        color:green;
+        margin-left: 10%;
+     }
+     .give{
+        font-size: 20px;
+        margin-left: 10%;
+        color: green;
+     }
+     .term{
+        margin-left: 30px;
+     }
+     .need{
+        text-align: justify;
+        font-size: large;
+    font-weight: bold;
+    color: black;
+    margin-left: 14%;
+     }
+.nap{
+    font-size: xx-large;
+    font-weight: bold;
+    color: black;
+    margin-right: 36%;
+    padding-top: 30px;
+}
+.pac{
+    padding-top: 20px;
+    margin-right: 313px;
+    font-size: x-large;
+    font-weight: bold;
+    color: black;
+}
+.kill{
+    background-color: white;
+    background-size: contain;
+    margin-left: 33%;
+    margin-right: 33%;
+    height: 140vh;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 40px;
+
+}
+.kip{
+    background-color: rgb(242,242,242);
+    background-size: cover;
+    height: 170vh;
+    font-weight: 100%;
+}
+.kne{
+    background-color: rgb(246,215,22) ;
+        height: 50vh;
+        width: 100%;
+}
+.pak{
+    padding-top: 20px;
+    margin-right: 370px;
+    font-size: x-large;
+    font-weight: bold;
+    color: black;
+}
+.pap{
+    padding-top: 20px;
+    margin-right: 211px;
+    font-size: x-large;
+    font-weight: bold;
+    color: black;
+}
+.paf{
+    padding-top: 20px;
+    margin-right: 330px;
+    font-size: x-large;
+    font-weight: bold;
+    color: black;
+}
+.pa{
+    margin-right: 240px;
+    font-size: x-large;
+    font-weight: bold;
+    color: black;
+}
+.pam{
+    margin-right: 285px;
+    font-size: x-large;
+    font-weight: bold;
+    color: black;
+}
+.paq{
+    margin-right: 400px;
+    font-size: x-large;
+    font-weight: bold;
+    color: black; 
+}
+.pal{
+    padding-top: 20px;
+    margin-right: 300px;
+    font-size: x-large;
+    font-weight: bold;
+    color: black;
+}
+.hood{
+    font-size: 70px;
+    font-weight: bold;
+    color: green;
+}
+.spoon{
+    font-size: 20px;
+    font-weight: bold;
+    color:black;
+
+}
+.name{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
+.beef{
+    font-size: 17px;
+    font-weight: bold;
+}
+.put{
+    margin-left: 100px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.aca{
+    color: green;
+    font-size: 20px;
+}
+.day{
+    margin-left: 10px;
+    color: green;
+}
+.ac{
+    color: green;
+}
+.fin{
+    background-image: url(images/head\ coach.jpg);
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.music{
+    
+    background-color: #038C40;
+    padding-top: 20px;
+    text-align: center;
+    margin-top: 150px;
+    height: 30vh;
+    margin-right: 30%;
+    margin-left: 30%;
+    color: white;
+    padding-left: 20px;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif; 
+    
+
+}
+.mus{
+    font-size: 68px;
+    font-weight: bold;
+    
+}
+.say{
+    padding-right: 550px;
+    padding-top: 100px;
+    font-weight: bold;
+}
+.thank{
+    margin-left: 50%;
+}
+.fun{
+    margin-left: 10%;
+}
+.man{
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+.than{
+    margin-left: 20%;
+}
+.tell{
+    padding-left: 50%;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+.tel{
+    padding-left: 20%;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+.ayo{
+    background-image: url(images/yellow.jpg);
+    height: 91vh;
+    padding-bottom: 800px;
+}
+.bobo{
+   margin-bottom: 200px;
+}
+.ass{
+
+    position: absolute;
+    display: inline-block;
+    padding-right: 100px;
+    font-size: 90px;
+    padding-top: 20px;
+    background-color: #00021C;
+    text-align: center;
+    margin-right: 50px;
+    height:91vh;
+    color:yellow;
+    padding-top: 20px;
+}
+.kit{
+    background-color: #003E14;
+    height: 100vh;
+    width: 100%;
+    margin-top: 80px;
+}
+.ask{
+    position: absolute;
+    display: inline-block;
+    padding-right: 100px;
+    font-size: 90px;
+    padding-top: 0px;
+    background-color: yellow;
+    text-align: center;
+    margin-right: 50px;
+    height:100vh;
+    color:green;
+    padding-top: 20px;
+}
+.toe{
+    background-color: #00021C;
+    background-size: cover;
+    width: 100%;
+    height: 30vh;
+}
+.sad{
+    
+    font-size: 50px;
+    padding-top:60px ;
+    color: white;
+    font-weight: bold;
+}
